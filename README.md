@@ -7,3 +7,4 @@
 3. matplot.lib
 4. pytorch
 5. scikitlearn
+6. opencv
