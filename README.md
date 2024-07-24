@@ -7,7 +7,7 @@
 3. matplot.lib :
 4. pytorch :
 
-* Tensor : https://colab.research.google.com/drive/1aXS3YaUfw4TGC4q0P1KU5QpyfQ8gqeVw?usp=sharing
+* Tensor,DataLoader : https://colab.research.google.com/drive/1aXS3YaUfw4TGC4q0P1KU5QpyfQ8gqeVw?usp=sharing
 
 * Transform : https://colab.research.google.com/drive/1L0ImmwsCX_lnf6iUwyma_G3EAUUuue5U?usp=sharing
 
