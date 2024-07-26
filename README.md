@@ -12,6 +12,8 @@
 * Transform : https://colab.research.google.com/drive/1L0ImmwsCX_lnf6iUwyma_G3EAUUuue5U?usp=sharing
 
 * NeuralNetwork : https://colab.research.google.com/drive/14DaQLGBBaJLsvukQOpArPJJ_5ONqsqV9?usp=sharing
+
+* BackPropation & AutoGrad : https://colab.research.google.com/drive/1ryVeGzuEdmEBUeGOrBppR15teFLqQIb6?usp=sharing
   
 6. scikitlearn :
 7. opencv : 
